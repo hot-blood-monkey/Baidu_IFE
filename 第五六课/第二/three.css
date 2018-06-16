@@ -1,0 +1,20 @@
+body {
+    height: 1000px;
+    border: solid 1px;
+}
+h1 {
+    background-color: grey;
+    height: 10%;
+    
+}
+
+.sec {
+    height: 18%;
+    overflow: auto;
+    zoom: 1;
+}
+
+.sec h3 {
+    float:left;
+    height: 100%;
+}
