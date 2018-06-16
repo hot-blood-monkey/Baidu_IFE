@@ -1,0 +1,17 @@
+body {
+    margin: 10px;
+    border: solid 1px;
+    padding-left: 20px;
+    
+    height: 1000px;
+    
+}
+h1 {
+    float: left;
+    background-color: skyblue;
+    width: 25%; 
+    height: 100%;
+    margin-right: 20px;
+    
+
+}
